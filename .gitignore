@@ -1,2 +1,7 @@
-.vs/
-bin/
+**/.vs/**
+**/bin/**
+**/debug/**
+**/Debug/**
+**/Release/**
+**/release/**
+*.a
