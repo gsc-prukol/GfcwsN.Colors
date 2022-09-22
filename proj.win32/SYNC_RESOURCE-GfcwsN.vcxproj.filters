@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\game-dev\GfcwsN\proj.win32\CMakeFiles\1c9b0a9fc024dd86f66f649e6bf2b9fe\SYNC_RESOURCE-GfcwsN.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\game-dev\GfcwsN\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\game-dev\GfcwsN\proj.win32\CMakeFiles\SYNC_RESOURCE-GfcwsN" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{91461722-38DB-33AF-B0DA-0E26016906E9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
